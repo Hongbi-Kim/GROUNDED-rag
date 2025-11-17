@@ -1,5 +1,7 @@
 checkpoints
+checkpoints_law
 data
+documents
 
 *.jsonl
 *.json
