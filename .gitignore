@@ -1,12 +1,20 @@
 checkpoints
 checkpoints_law
+
+node_modules
+
 data
 documents
+previous
 
 .DS_Store
+.env
+__pycache__
 
 *.jsonl
 *.json
 *.pkl
 *.hash
 *.hwp
+
+.gitignore
